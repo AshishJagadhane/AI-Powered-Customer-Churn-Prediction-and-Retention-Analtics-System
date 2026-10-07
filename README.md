@@ -22,10 +22,13 @@ Based on the core structure of this repository, the files operate across the fol
 ├── 01_data_generation.ipynb              # Notebook establishing raw customer baseline profiles
 ├── 02_data_cleaning.ipynb                # Data parsing, outlier handling, and missing values processing
 ├── 03_EDA.ipynb                          # Exploratory Data Analysis & Machine Learning modeling
+├── 04_PreProcessing                      # Pre-Processing and Training the Machine Learning model
 ├── customer_churn_data.csv               # Initial generated raw customer dataset
 ├── customer_churn_cleaned.csv            # Formatted dataset post data-cleaning execution
 ├── customer_churn_feature_engineered.csv  # Final training dataset with structured analytical variants
+├── customer_churn_ml_output.csv          # Report of the Machine Learning model  
 ├── AI Customer Churn Dashboard.pdf       # Exported execution report of the Power BI analytics view
+├── Churn.pbix                            # Report of the Power BI analytics view
 └── README.md                             # Project documentation
 ```
 
